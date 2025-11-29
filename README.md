@@ -1,1 +1,3 @@
-## Repo to store models I create
+## About
+
+- A place to store ML experimentation
