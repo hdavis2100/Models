@@ -1,3 +1,3 @@
 ## About
 
-- A place to store ML experimentation
+A place to store ML experimentation
